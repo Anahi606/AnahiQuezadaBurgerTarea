@@ -1,0 +1,6 @@
+@AnahiQuezadaBurgerAPI_HostAddress = http://localhost:5122
+
+GET {{AnahiQuezadaBurgerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
